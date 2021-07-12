@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdgarMtz01
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS,Javascript and VueJs
+- 🌱 I’m currently learning HTML, CSS, Javascript and VueJs
 - 💞️ I’m looking to collaborate on web sites (front-end and back-end) and share knowledge uwu
 - 📫 How to reach me ...
 
